@@ -45,8 +45,8 @@ Anaconda.
 
 ### How to set this up on your own machine
 * Clone or download this repository from GitHub. To do so, click the green "Code"
-button on the repo GitHub page, and then either git-clone it (if you know how to
-do that), or simply click "Download ZIP"
+button on the [repository GitHub page](https://github.com/hrzn/4hours-python-intro), 
+and then either git-clone it (if you know how to do that), or simply click "Download ZIP"
 * Install Anaconda by following the instructions for your 
 system [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 * (Option A) Follow the Anaconda 
@@ -61,7 +61,7 @@ jupyter notebook
 ```
 
 ## Content
-### `01_basics.ipynb`
+### [Basics](https://github.com/hrzn/4hours-python-intro/blob/master/notebooks/01_basics.ipynb)
 * Introduction
 * Jupyter cells & executing code
 * Variables
@@ -69,18 +69,17 @@ jupyter notebook
 * Operators
 * Calling functions
 
-### `02_data_structures.ipynb`
-* Data structures
-  * Lists
-  * Tuples
-  * Sets
-  * Dicts (hashtables)
+### [Data Structures](https://github.com/hrzn/4hours-python-intro/blob/master/notebooks/02_data_structures.ipynb)
+* Lists
+* Tuples
+* Sets
+* Dicts (hashtables)
   
-### `03_conditionals_and_loops.ipynb`
+### [Conditionals and Loops](https://github.com/hrzn/4hours-python-intro/blob/master/notebooks/03_conditionals_and_loops.ipynb)
 * Conditionals
 * Loops
 
-### `04_functions_and_classes.ipynb`
+### [Functions and Classes](https://github.com/hrzn/4hours-python-intro/blob/master/notebooks/04_functions_and_classes.ipynb)
 * Writing Functions
 * Classes
 * The Python Standard Library
